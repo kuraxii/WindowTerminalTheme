@@ -1,2 +1,2 @@
-- **个人windows 终端配置**
-- **配套的vim颜色配置**
+- **个人windows 终端配置(颜色配置基于[Mikuconsole](https://github.com/fengT-T/Mikuconsole))**
+- **配套的vim颜色配置(基于koehler)**

@@ -1,0 +1,31 @@
+"showTabsInTitlebar": true,
+    "tabSwitcherMode": "inOrder",
+    "tabWidthMode": "equal",
+    "theme": "mylight",
+    "themes": 
+    [
+        {
+            "name": "mylight",
+            "tab": 
+            {
+                "background": "terminalBackground",
+                "iconStyle": "default",
+                "showCloseButton": "hover",
+                "unfocusedBackground": "#FFFFFF00"
+            },
+            "tabRow": 
+            {
+                "background": "#FFFFFF76",
+                "unfocusedBackground": "#FFFFFF76"
+            },
+            "window": 
+            {
+                "applicationTheme": "light",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": true
+            }
+        }
+    ],
+    "useAcrylicInTabRow": false
