@@ -1,4 +1,31 @@
-"showTabsInTitlebar": true,
+{
+    "schemes": 
+    [
+        {
+            "background": "#E4EEFF",
+            "black": "#4F4F4F",
+            "blue": "#208FCF",
+            "brightBlack": "#999999",
+            "brightBlue": "#208FCF",
+            "brightCyan": "#10DFA1",
+            "brightGreen": "#05B5AA",
+            "brightPurple": "#8C65CF",
+            "brightRed": "#F06509",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#D4AF37",
+            "cursorColor": "#A3A3A3",
+            "cyan": "#097A58",
+            "foreground": "#575757",
+            "green": "#05ADA2",
+            "name": "mycolor",
+            "purple": "#8C65CF",
+            "red": "#F06509",
+            "selectionBackground": "#7A7A7A",
+            "white": "#FFFFFF",
+            "yellow": "#D4AF37"
+        }
+    ],
+    "showTabsInTitlebar": true,
     "tabSwitcherMode": "inOrder",
     "tabWidthMode": "equal",
     "theme": "mylight",
@@ -29,3 +56,4 @@
         }
     ],
     "useAcrylicInTabRow": false
+}
